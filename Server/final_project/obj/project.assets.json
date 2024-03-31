@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Y:\\Groups\\Group_5\\סלומון  רבקה\\angular\\project\\server-web api\\final_project\\final_project.csproj",
+      "projectUniqueName": "Y:\\Groups\\Group_5\\פישמן  יעל\\Angular\\AngularProject\\Server\\final_project\\final_project.csproj",
       "projectName": "final_project",
-      "projectPath": "Y:\\Groups\\Group_5\\סלומון  רבקה\\angular\\project\\server-web api\\final_project\\final_project.csproj",
+      "projectPath": "Y:\\Groups\\Group_5\\פישמן  יעל\\Angular\\AngularProject\\Server\\final_project\\final_project.csproj",
       "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
-      "outputPath": "Y:\\Groups\\Group_5\\סלומון  רבקה\\angular\\project\\server-web api\\final_project\\obj\\",
+      "outputPath": "Y:\\Groups\\Group_5\\פישמן  יעל\\Angular\\AngularProject\\Server\\final_project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

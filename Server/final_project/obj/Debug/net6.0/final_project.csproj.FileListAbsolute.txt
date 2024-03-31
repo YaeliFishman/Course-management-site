@@ -144,3 +144,30 @@ Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_pr
 Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.pdb
 Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.genruntimeconfig.cache
 Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\ref\final_project.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\bin\Debug\net6.0\final_project.exe
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\bin\Debug\net6.0\final_project.deps.json
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\bin\Debug\net6.0\final_project.runtimeconfig.json
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\bin\Debug\net6.0\final_project.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\bin\Debug\net6.0\final_project.pdb
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\final_project.csproj.AssemblyReference.cache
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\final_project.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\final_project.AssemblyInfoInputs.cache
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\final_project.AssemblyInfo.cs
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\final_project.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\scopedcss\bundle\final_project.styles.css
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\final_project.csproj.CopyComplete
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\final_project.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\refint\final_project.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\final_project.pdb
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\final_project.genruntimeconfig.cache
+Y:\Groups\Group_5\פישמן  יעל\Angular\AngularProject\Server\final_project\obj\Debug\net6.0\ref\final_project.dll

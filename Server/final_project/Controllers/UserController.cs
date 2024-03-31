@@ -12,7 +12,7 @@ namespace final_project.Controllers
 
     public static List<User> users = new List<User>
         {
-            new User{Id= 1, Name="חנה", Mail="d@g",Address="Maimon",Password="1111"},
+            new User{Id= 1, Name="יעל", Mail="d@g",Address="Simchony",Password="1111"},
             new User{Id= 2, Name="שרית", Mail="fgh@rgdr",Address="Simchony",Password="2222"},
             new User{Id= 3, Name="רבקי", Mail="e@rgd",Address="Rambam",Password="3333"}
         };
