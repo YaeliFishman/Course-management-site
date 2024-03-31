@@ -1,0 +1,48 @@
+ <form [formGroup]="loginForm" (ngSubmit)="onSubmit()" class="styled-form" [@formAnimation]>
+  <label for="userName">שם משתמש</label>
+  <input type="text" #inputField
+   formControlName="userName" placeholder="שם משתמש" class="form-input" autofocus>
+
+  <label for="password">סיסמה</label>
+  <input type="password" formControlName="password" placeholder="סיסמה" class="form-input">
+
+  <button type="submit" class="submit-button">אישור</button>
+
+  <br/><br/> <br/><br/>
+  <button (click)="lecturerLogin()" class="login-button">כניסת מרצה</button>
+  <br/>
+  
+  <div>
+    <input *ngIf="isLecturer" name="searchByName"   type="text" placeholder="שם הקורס" id="courseName" > 
+    </div>
+
+  <!-- <div>
+  <input *ngIf="isLecturer" name="searchByName" [(ngModel)]="searchByName"  type="text" placeholder="שם הקורס" id="courseName" > 
+  <i><button (click)="filteredByName()">v</button></i>
+  </div> -->
+
+</form>
+
+
+
+
+  <!-- Search by Course Name -->
+  <!-- <div>
+  <input name="searchByName"  [(ngModel)]="searchByName" type="text" placeholder="שם הקורס" class="bg-white border px-4 py-2 rounded-md shadow">
+  <i><button (click)="filteredByName()">v</button></i>
+  </div>
+
+
+  <div id="all-course-page">
+    <div *ngFor="let c of (filteredCourses | async)" class="course-item">
+      <h1 class="course-name"><strong>{{c.name}}</strong></h1>
+      <h4>מספר מפגשים: {{c.count}}</h4>
+      <img src="../../../assets/{{c.img}}" alt="תיאור תמונה">
+  
+  
+    </div>
+  </div>
+   -->
+
+  
+
